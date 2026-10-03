@@ -2,10 +2,9 @@
 
 [![License](https://img.shields.io/github/license/Orbinuity/client)](https://orbinuity.nl/license)
 [![Last Commit](https://img.shields.io/github/last-commit/Orbinuity/client)](https://github.com/Orbinuity/client/commits)
-![Language](https://img.shields.io/badge/Language-HTML-blue)
 [![Made By](https://img.shields.io/badge/Made%20by-Orbinuity-teal)](https://orbinuity.nl/)
 
-Hier kun jij als cliënt geholpen woorden door ons!
+The website for clients to get in touch.
 
 ## License
 
