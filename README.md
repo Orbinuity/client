@@ -1,10 +1,10 @@
-# Orbinuity Client Page
+# Orbinuity Business Page
 
-[![License](https://img.shields.io/github/license/Orbinuity/client)](https://orbinuity.nl/license)
-[![Last Commit](https://img.shields.io/github/last-commit/Orbinuity/client)](https://github.com/Orbinuity/client/commits)
+[![License](https://img.shields.io/github/license/Orbinuity/business)](https://orbinuity.nl/license)
+[![Last Commit](https://img.shields.io/github/last-commit/Orbinuity/business)](https://github.com/Orbinuity/business/commits)
 [![Made By](https://img.shields.io/badge/Made%20by-Orbinuity-teal)](https://orbinuity.nl/)
 
-The website for clients to get in touch.
+The website for business to get in touch.
 
 ## License
 
